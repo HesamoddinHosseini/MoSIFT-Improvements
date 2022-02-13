@@ -19,6 +19,7 @@ Chen, M.Y. Hauptmann, A.: MoSIFT: recognizing human actions in surveillance vide
 
 
 
+
 *How To Run?
 
 A Matlab code is written to recognize human actions namely 'walking', 'jogging','running', 'boxing','hand waving', and 'hand clapping' using Spatio Temporal Interest Points (STIP) and classify the same using a KNN classifier. Please download the KTH Action recognition dataset from the link http://www.nada.kth.se/cvap/actions/ and put them in the folder KTH Dataset folder.
