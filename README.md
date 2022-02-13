@@ -1,3 +1,5 @@
+
+
 ##English:
 
 One of the articles reviewed introduced a model called MoSIFT that tried to identify ongoing activity in videos in a SIFT-inspired manner. The method of identifying features and describing them was derived from SIFT, but changes were made to make the nature of the method more appropriate for the video, taking into account changes over time. In this project, the aim is to increase the accuracy of the MoSIFT method.
