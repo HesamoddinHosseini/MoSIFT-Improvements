@@ -7,6 +7,8 @@ One of the articles reviewed introduced a model called MoSIFT that tried to iden
 Chen, M.Y. Hauptmann, A.: MoSIFT: recognizing human actions in surveillance videos (2009)
 
 
+
+
 *Persian:
 
  یکی از مقالاتی که بررسی شد مدلی را معرفی میکرد به عنوان MoSIFT که با روشی الهام گرفته از SIFT می کوشید فعالیت در حال انجام در ویدیو ها را شناسایی کند. روش شناسایی ویژگی ها و توصیف آنها برگرفته از SIFT بود، اما تغییراتی روی آن اعمال شده بود تا با در نظر گرفتن تغییرات در طول زمان ماهیت روش برای ویدیو مناسب تر شود.
@@ -15,6 +17,8 @@ Chen, M.Y. Hauptmann, A.: MoSIFT: recognizing human actions in surveillance vide
 لینک مقاله اصلیhttp://reports-archive.adm.cs.cmu.edu/anon/anon/2009/CMU-CS-09-161.pdf
 
 Chen, M.Y. Hauptmann, A.: MoSIFT: recognizing human actions in surveillance videos (2009)
+
+
 
 
 
